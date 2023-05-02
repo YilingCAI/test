@@ -1,0 +1,5 @@
+hostname=.*
+memory=.*
+bios_version=.*
+vda_size=.*
+vdb_size=.*

@@ -1,0 +1,10 @@
+---
+users:
+  - name: node1
+    job: developer
+  - name: node2
+    job: developer
+  - name: node3
+    job: manager
+  - name: node4
+    job: manager
